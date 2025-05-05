@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @Author: Fulin
- * @Description: HashMap
+ * @Description: ArrayMap实现
  * @DateTime: 2025/5/5 下午1:06
  **/
 public class FulinArrayMap<K,V> {
